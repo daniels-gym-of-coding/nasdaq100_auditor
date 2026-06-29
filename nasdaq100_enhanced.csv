@@ -1,101 +1,101 @@
-symbol,name,cik
-AAPL,Apple Inc.,0000320193
-ABNB,"Airbnb, Inc.",0001559720
-ADBE,Adobe Inc.,0000796343
-ADI,"Analog Devices, Inc.",0000006281
-ADP,"Automatic Data Processing, Inc.",0000008670
-ADSK,"Autodesk, Inc.",0000769397
-AEP,"American Electric Power Company, Inc.",0000004904
-ALAB,"Astera Labs, Inc.",0001736297
-ALNY,"Alnylam Pharmaceuticals, Inc.",0001178670
-AMAT,"Applied Materials, Inc.",0000006951
-AMD,"Advanced Micro Devices, Inc.",0000002488
-AMGN,Amgen Inc.,0000318154
-AMZN,"Amazon.com, Inc.",0001018724
-APP,Applovin Corporation,0001751008
-ARM,Arm Holdings plc,0001973239
-ASML,ASML Holding N.V.,0000937966
-AVGO,Broadcom Inc.,0001730168
-AXON,"Axon Enterprise, Inc.",0001069183
-BKNG,Booking Holdings Inc.,0001075531
-BKR,Baker Hughes Company,0001701605
-CCEP,Coca-Cola Europacific Partners plc,0001650107
-CDNS,"Cadence Design Systems, Inc.",0000813672
-CEG,Constellation Energy Corporation,0001868275
-CMCSA,Comcast Corporation,0001166691
-COST,Costco Wholesale Corporation,0000909832
-CPRT,"Copart, Inc. (DE)",0000900075
-CRWD,"CrowdStrike Holdings, Inc.",0001535527
-CRWV,"CoreWeave, Inc.",0001769628
-CSCO,"Cisco Systems, Inc.",0000858877
-CSX,CSX Corporation,0000277948
-CTAS,Cintas Corporation,0000723254
-DASH,"DoorDash, Inc.",0001792789
-DDOG,"Datadog, Inc.",0001561550
-DXCM,"DexCom, Inc.",0001093557
-EA,Electronic Arts Inc.,0000712515
-EXC,Exelon Corporation,0001109357
-FANG,"Diamondback Energy, Inc.",0001539838
-FAST,Fastenal Company,0000815556
-FER,Ferrovial N.V.,0001468522
-FTNT,"Fortinet, Inc.",0001262039
-GEHC,GE HealthCare Technologies Inc.,0001932393
-GILD,"Gilead Sciences, Inc.",0000882095
-GOOG,Alphabet Inc.,0001652044
-HON,Honeywell International Inc.,0000773840
-IDXX,"IDEXX Laboratories, Inc.",0000874716
-INTC,Intel Corporation,0000050863
-INTU,Intuit Inc.,0000896878
-ISRG,"Intuitive Surgical, Inc.",0001035267
-KDP,Keurig Dr Pepper Inc.,0001418135
-KHC,The Kraft Heinz Company,0001637459
-KLAC,KLA Corporation,0000319201
-LIN,Linde plc,0001707925
-LITE,Lumentum Holdings Inc.,0001633978
-LRCX,Lam Research Corporation,0000707549
-MAR,Marriott International,0001048286
-MCHP,Microchip Technology Incorporated,0000827054
-MDLZ,"Mondelez International, Inc.",0001103982
-MELI,"MercadoLibre, Inc.",0001099590
-META,"Meta Platforms, Inc.",0001326801
-MNST,Monster Beverage Corporation,0000865752
-MPWR,"Monolithic Power Systems, Inc.",0001280452
-MRVL,"Marvell Technology, Inc.",0001835632
-MSFT,Microsoft Corporation,0000789019
-MSTR,Strategy Inc,0001050446
-MU,"Micron Technology, Inc.",0000723125
-NBIS,Nebius Group N.V.,0001513845
-NFLX,"Netflix, Inc.",0001065280
-NVDA,NVIDIA Corporation,0001045810
-NXPI,NXP Semiconductors N.V.,0001413447
-ODFL,"Old Dominion Freight Line, Inc.",0000878927
-ORLY,"O'Reilly Automotive, Inc.",0000898173
-PANW,"Palo Alto Networks, Inc.",0001327567
-PAYX,"Paychex, Inc.",0000723531
-PCAR,PACCAR Inc.,0000075362
-PDD,PDD Holdings Inc.,0001737806
-PEP,"PepsiCo, Inc.",0000077476
-PLTR,Palantir Technologies Inc.,0001321655
-PYPL,"PayPal Holdings, Inc.",0001633917
-QCOM,QUALCOMM Incorporated,0000804328
-REGN,"Regeneron Pharmaceuticals, Inc.",0000872589
-RKLB,Rocket Lab Corporation,0001819994
-ROP,"Roper Technologies, Inc.",0000882835
-ROST,"Ross Stores, Inc.",0000745732
-SBUX,Starbucks Corporation,0000829224
-SHOP,Shopify Inc.,0001594805
-SNDK,Sandisk Corporation,0002023554
-SNPS,"Synopsys, Inc.",0000883241
-STX,Seagate Technology Holdings PLC,0001137789
-TER,"Teradyne, Inc.",0000097210
-TMUS,"T-Mobile US, Inc.",0001283699
-TRI,Thomson Reuters Corporation,0001075124
-TSLA,"Tesla, Inc.",0001318605
-TTWO,"Take-Two Interactive Software, Inc.",0000946581
-TXN,Texas Instruments Incorporated,0000097476
-VRTX,Vertex Pharmaceuticals Incorporated,0000875320
-WBD,"Warner Bros. Discovery, Inc.",0001437107
-WDAY,"Workday, Inc.",0001327811
-WDC,Western Digital Corporation,0000106040
-WMT,Walmart Inc.,0000104169
-XEL,Xcel Energy Inc.,0000072903
+symbol,name,cik,rank
+AAPL,Apple Inc.,0000320193,002
+ABNB,"Airbnb, Inc.",0001559720,051
+ADBE,Adobe Inc.,0000796343,056
+ADI,"Analog Devices, Inc.",0000006281,033
+ADP,"Automatic Data Processing, Inc.",0000008670,049
+ADSK,"Autodesk, Inc.",0000769397,088
+AEP,"American Electric Power Company, Inc.",0000004904,059
+ALAB,"Astera Labs, Inc.",0001736297,066
+ALNY,"Alnylam Pharmaceuticals, Inc.",0001178670,090
+AMAT,"Applied Materials, Inc.",0000006951,014
+AMD,"Advanced Micro Devices, Inc.",0000002488,011
+AMGN,Amgen Inc.,0000318154,031
+AMZN,"Amazon.com, Inc.",0001018724,005
+APP,Applovin Corporation,0001751008,035
+ARM,Arm Holdings plc,0001973239,018
+ASML,ASML Holding N.V.,0000937966,012
+AVGO,Broadcom Inc.,0001730168,006
+AXON,"Axon Enterprise, Inc.",0001069183,091
+BKNG,Booking Holdings Inc.,0001075531,040
+BKR,Baker Hughes Company,0001701605,073
+CCEP,Coca-Cola Europacific Partners plc,0001650107,083
+CDNS,"Cadence Design Systems, Inc.",0000813672,045
+CEG,Constellation Energy Corporation,0001868275,047
+CMCSA,Comcast Corporation,0001166691,055
+COST,Costco Wholesale Corporation,0000909832,017
+CPRT,"Copart, Inc. (DE)",0000900075,098
+CRWD,"CrowdStrike Holdings, Inc.",0001535527,034
+CRWV,"CoreWeave, Inc.",0001769628,075
+CSCO,"Cisco Systems, Inc.",0000858877,016
+CSX,CSX Corporation,0000277948,050
+CTAS,Cintas Corporation,0000723254,063
+DASH,"DoorDash, Inc.",0001792789,057
+DDOG,"Datadog, Inc.",0001561550,053
+DXCM,"DexCom, Inc.",0001093557,100
+EA,Electronic Arts Inc.,0000712515,076
+EXC,Exelon Corporation,0001109357,081
+FANG,"Diamondback Energy, Inc.",0001539838,078
+FAST,Fastenal Company,0000815556,074
+FER,Ferrovial N.V.,0001468522,079
+FTNT,"Fortinet, Inc.",0001262039,043
+GEHC,GE HealthCare Technologies Inc.,0001932393,096
+GILD,"Gilead Sciences, Inc.",0000882095,036
+GOOG,Alphabet Inc.,0001652044,003
+HON,Honeywell International Inc.,0000773840,038
+IDXX,"IDEXX Laboratories, Inc.",0000874716,087
+INTC,Intel Corporation,0000050863,013
+INTU,Intuit Inc.,0000896878,061
+ISRG,"Intuitive Surgical, Inc.",0001035267,039
+KDP,Keurig Dr Pepper Inc.,0001418135,085
+KHC,The Kraft Heinz Company,0001637459,099
+KLAC,KLA Corporation,0000319201,019
+LIN,Linde plc,0001707925,025
+LITE,Lumentum Holdings Inc.,0001633978,070
+LRCX,Lam Research Corporation,0000707549,015
+MAR,Marriott International,0001048286,046
+MCHP,Microchip Technology Incorporated,0000827054,082
+MDLZ,"Mondelez International, Inc.",0001103982,058
+MELI,"MercadoLibre, Inc.",0001099590,054
+META,"Meta Platforms, Inc.",0001326801,008
+MNST,Monster Beverage Corporation,0000865752,048
+MPWR,"Monolithic Power Systems, Inc.",0001280452,069
+MRVL,"Marvell Technology, Inc.",0001835632,026
+MSFT,Microsoft Corporation,0000789019,004
+MSTR,Strategy Inc,0001050446,097
+MU,"Micron Technology, Inc.",0000723125,009
+NBIS,Nebius Group N.V.,0001513845,072
+NFLX,"Netflix, Inc.",0001065280,020
+NVDA,NVIDIA Corporation,0001045810,001
+NXPI,NXP Semiconductors N.V.,0001413447,062
+ODFL,"Old Dominion Freight Line, Inc.",0000878927,084
+ORLY,"O'Reilly Automotive, Inc.",0000898173,060
+PANW,"Palo Alto Networks, Inc.",0001327567,024
+PAYX,"Paychex, Inc.",0000723531,093
+PCAR,PACCAR Inc.,0000075362,071
+PDD,PDD Holdings Inc.,0001737806,044
+PEP,"PepsiCo, Inc.",0000077476,032
+PLTR,Palantir Technologies Inc.,0001321655,022
+PYPL,"PayPal Holdings, Inc.",0001633917,089
+QCOM,QUALCOMM Incorporated,0000804328,029
+REGN,"Regeneron Pharmaceuticals, Inc.",0000872589,068
+RKLB,Rocket Lab Corporation,0001819994,080
+ROP,"Roper Technologies, Inc.",0000882835,094
+ROST,"Ross Stores, Inc.",0000745732,064
+SBUX,Starbucks Corporation,0000829224,042
+SHOP,Shopify Inc.,0001594805,037
+SNDK,Sandisk Corporation,0002023554,021
+SNPS,"Synopsys, Inc.",0000883241,052
+STX,Seagate Technology Holdings PLC,0001137789,028
+TER,"Teradyne, Inc.",0000097210,065
+TMUS,"T-Mobile US, Inc.",0001283699,030
+TRI,Thomson Reuters Corporation,0001075124,092
+TSLA,"Tesla, Inc.",0001318605,007
+TTWO,"Take-Two Interactive Software, Inc.",0000946581,086
+TXN,Texas Instruments Incorporated,0000097476,023
+VRTX,Vertex Pharmaceuticals Incorporated,0000875320,041
+WBD,"Warner Bros. Discovery, Inc.",0001437107,067
+WDAY,"Workday, Inc.",0001327811,095
+WDC,Western Digital Corporation,0000106040,027
+WMT,Walmart Inc.,0000104169,010
+XEL,Xcel Energy Inc.,0000072903,077
