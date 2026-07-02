@@ -17,4 +17,4 @@ https://assets.parqet.com/logos/symbol/ticker_name
 
 ## Visual mainpulation
 
-Use agent to generate grid picture autonomously
+Use agent to download logos and generate grid picture autonomously
