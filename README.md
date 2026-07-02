@@ -7,6 +7,14 @@ https://www.nasdaq.com/market-activity/quotes/nasdaq-ndx-index
 
 https://pcaobus.org/resources/auditorsearch
 
+## Data manipulation
+
+use agent to manipulate data autonoumously
+
 ## Visual source
 
-https://assets.parqet.com/logos/symbol/NVDA
+https://assets.parqet.com/logos/symbol/ticker_name
+
+## Visual mainpulation
+
+Use agent to generate grid picture autonomously
